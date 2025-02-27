@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c6207769-965f-4d2b-a7cf-6ff214a1c830" name="root">
+        <fileTransfer accessType="SFTP" host="root@connect.yza1.seetacloud.com" port="26545" sshConfigId="a0335cb6-a7a9-4183-bce5-dae282cd79eb" sshConfig="root@root@connect.yza1.seetacloud.com:26545 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="fab8028e-9196-4ff8-a9f5-1b80a2b0b509" name="root-2">
+        <fileTransfer accessType="SFTP" host="root@connect.yza1.seetacloud.com" port="26545" sshConfigId="a0335cb6-a7a9-4183-bce5-dae282cd79eb" sshConfig="root@root@connect.yza1.seetacloud.com:26545 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="e7bec798-3bfe-44d2-bab7-faa98e3aa0c8" name="root-3">
+        <fileTransfer accessType="SFTP" host="root@connect.yza1.seetacloud.com" port="26545" sshConfigId="a0335cb6-a7a9-4183-bce5-dae282cd79eb" sshConfig="root@root@connect.yza1.seetacloud.com:26545 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

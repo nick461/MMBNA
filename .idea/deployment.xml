@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="root" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false" compareModeInSync="TIMESTAMP">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="root">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/tmp/checkpoints/consistency_best_model.pt" />
+            <excludedPath path="/tmp/checkpoints/specific_best_model_fold_0.pt" />
+            <excludedPath path="/tmp/checkpoints/specific_best_model_fold_1.pt" />
+            <excludedPath path="/tmp/checkpoints/specific_best_model_fold_2.pt" />
+            <excludedPath path="/tmp/checkpoints/specific_best_model_fold_3.pt" />
+            <excludedPath path="/tmp/checkpoints/specific_best_model_fold_4.pt" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="root-2">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root-3">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

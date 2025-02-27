@@ -1,0 +1,5 @@
+==> 2024-11-26 09:52:39 <==
+# cmd: /opt/anaconda3/lib/python3.12/site-packages/conda/__main__.py create --yes --prefix .conda python=3.12
+# conda version: 24.9.2
++https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/osx-arm64::bzip2-1.0.8-h80987f9_6
+# update specs: ['python=3.12']
